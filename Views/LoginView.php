@@ -8,7 +8,7 @@
     <meta name="keyword" content="Creative, Dashboard, Admin, Template, Theme, Bootstrap, Responsive, Retina, Minimal">
     <link rel="shortcut icon" href="img/favicon.png">
 
-    <title>iCONT - Sistema Profesional Para Empresas</title>
+    <title>SerProTec - Web POS</title>
     <!-- Bootstrap CSS -->
     <link href="Views/css/bootstrap.min.css" rel="stylesheet">
     
@@ -34,7 +34,7 @@
 
 <div class="container">
 
-    <form class="login-form" action="../icont/Controller/AccessUsers.php">
+    <form class="login-form" action="../serprotecpos/Controller/AccessUsers.php">
         <div class="login-wrap">
             <p class="login-img"><i class="icon_lock_alt"></i></p>
             <div class="input-group">
